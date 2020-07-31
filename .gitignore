@@ -1,0 +1,10 @@
+.cache
+node_modules
+build
+.DS_Store
+.directory
+*.log
+npm-debug.log
+npm-debug.log.*
+package-lock.json
+thumbs.db
